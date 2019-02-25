@@ -1,5 +1,5 @@
 package com.talan.byblos.entities;
 
-public class Contrat {
+public class Ressources {
 
 }
